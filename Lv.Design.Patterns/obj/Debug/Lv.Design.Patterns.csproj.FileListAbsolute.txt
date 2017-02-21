@@ -1,0 +1,5 @@
+C:\Projetos\Design Patterns - C#\Lv.Design.Patterns\bin\Debug\Lv.Design.Patterns.dll
+C:\Projetos\Design Patterns - C#\Lv.Design.Patterns\bin\Debug\Lv.Design.Patterns.pdb
+C:\Projetos\Design Patterns - C#\Lv.Design.Patterns\obj\Debug\Lv.Design.Patterns.dll
+C:\Projetos\Design Patterns - C#\Lv.Design.Patterns\obj\Debug\Lv.Design.Patterns.pdb
+C:\Projetos\Design Patterns - C#\Lv.Design.Patterns\obj\Debug\Lv.Design.Patterns.csprojResolveAssemblyReference.cache
